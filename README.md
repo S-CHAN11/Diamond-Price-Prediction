@@ -1,1 +1,1 @@
-# Diamond-Price-Prediction
+# Jewelry Manufacturer Profitability Analysis
